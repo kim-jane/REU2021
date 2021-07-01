@@ -1,3 +1,6 @@
 # REU2021
 
-Under construction ;)
+MSU REU Short Course on Machine Learning
+July 1, 2021
+
+Topic: Feedforward Neural Networks
